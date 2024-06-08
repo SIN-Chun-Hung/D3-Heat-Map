@@ -6,8 +6,10 @@ This is the Global Land-Surface Temperature Heat Map - recording per month from 
 
 This page owner information.
 
-SIN,Chun Hung SIMON.
+SIN,Chun Hung SIMON. 
 
-HKUST graduate.
+HKUST Graduate. 
 
-Mathematician. Developer.
+Major in Mathematics.
+
+A Lifelong Learner.
